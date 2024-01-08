@@ -1,0 +1,15 @@
+name: erudio.pandas
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - ca-certificates
+  - openssl
+  - matplotlib
+  - jupyterlab
+  - certifi
+  - jupytext
+  - nbdime
+  - jupyterlab-myst
